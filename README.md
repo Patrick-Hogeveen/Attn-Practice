@@ -3,7 +3,7 @@ Implementing "Attention is all you need"
 
 - [x] Transformer Base
 - [ ] Sliding Attention Window
-- [ ] Mamba
+- [x] Mamba
 
 Refernces:
 https://www.youtube.com/watch?v=kCc8FmEb1nY - Andrej Karpathy  
